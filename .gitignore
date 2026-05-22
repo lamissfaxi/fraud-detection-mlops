@@ -7,4 +7,5 @@ mlruns/
 mlflow.db
 *.csv
 *.pkl
-*.db
+*.db"data/*.csv" 
+"data/*.zip" 
