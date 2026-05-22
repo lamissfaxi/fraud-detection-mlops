@@ -1,4 +1,11 @@
-"venv/" 
-"__pycache__/" 
-"*.pyc" 
-"mlruns/" 
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+data/
+mlruns/
+mlflow.db
+
+*.csv
+*.pkl
+*.db
